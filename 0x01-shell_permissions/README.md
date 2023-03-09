@@ -16,4 +16,5 @@ This contains details about the scrips
 				-rwxr-x-wx 1 julien julien 23 Sep 20 14:35 hello
 10-mirror_permissions:	 sets the mode of the file hello the same as olleh’s mode.
 11-directories_permissions:	adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
-12-directories_permissions:	creates a drectory called my-dir with permissions 751 in the working directory
+12-directory_permissions:	creates a drectory called my-dir with permissions 751 in the working directory.
+13-change_group:		changes the group owner to school for the file hello.
