@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Number of directories: $(find . -type d -not -path '*/\.*' -mindepth 1 -maxdepth 1 | wc -l)"; echo "Number of sub-directories: $(find . -type d -not -path '*/\.*' -mindepth 2 | wc -l)"
+find . -type d -not -name '.' | wc -l
