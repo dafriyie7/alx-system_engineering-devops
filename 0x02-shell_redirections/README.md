@@ -6,3 +6,4 @@ It also tells what each file in this directory does
 1-confused_smiley
 2-hellofile
 3-twofiles
+4-lastlines
