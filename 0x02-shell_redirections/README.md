@@ -1,6 +1,6 @@
 This file contains tutorial on Shell, I/O Redirections and filters
 
-It also tells what each sript-file in this directory does
+It contains information about the function of each sript-file in this directory does
 
 0-hello_world		prints "Hello, World".
 1-confused_smiley	displays a confused smiley.
